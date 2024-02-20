@@ -1,0 +1,17 @@
+React JS is A JavaScript Library for building user interface.
+
+Why React JS?
+1. React JS use JS to update webpage without reloading the webpage at runtime.
+2. Transition of webpages are smooth and instant ( JS can't do this as JS is work
+    in background and work after loading a webpages )
+3. Using only JS : I) Writing complex JS code is quickly becomes cumbersome
+                  II) Complex JS code quickly becomes error-prone
+                  III) Complex JS code often is hard to maintain or edit
+                  IV)React Offers a Simpler mental model
+4. JS and HTML have to write in different file whereas in react we can write in
+  same file. we can add dynamic coding in html using react
+5. JS is not a declarative programming (not declarative means its a imperative).
+  we have to define each steps in JS to perform action.
+  Where as React is Declarative(Define the goal not the steps) UI Programming.
+  With React, we define the target UI State(s) - not the steps to get there !,
+  Instead, React will figure out & perform the necessary steps. 
