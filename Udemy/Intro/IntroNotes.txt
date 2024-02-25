@@ -14,4 +14,26 @@ Why React JS?
   we have to define each steps in JS to perform action.
   Where as React is Declarative(Define the goal not the steps) UI Programming.
   With React, we define the target UI State(s) - not the steps to get there !,
-  Instead, React will figure out & perform the necessary steps. 
+  Instead, React will figure out & perform the necessary steps.
+
+
+  Create React Project:
+   1) In Browser type react.new (Like spring initializer): This gives in browser dev env.
+    no need to install anything locally in this env use.
+   2)Install Node js(LTS version), there are two ways for react project
+      I) Using vite(
+                    - type cmd "npm create vite@latest 'project name'"
+                    - select React
+                    - select variant (JS, TypeScript etc)
+                    - after create project run cmd "npm install"
+                    - to run project run cmd "npm run dev"
+                    - to stop running project enter ctrl+c
+                    )
+      II) using create-react-app(
+                    - type cmd "npx create-react-app 'project name'"
+                    - after create project run cmd "npm install"
+                    - to run project run cmd "npm run dev"
+                    - to stop running project enter ctrl+c
+                    )
+
+In React is react app is running and we save changes it will auto reload react app on change
